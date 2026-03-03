@@ -86,6 +86,8 @@
 { "type": "Feature", "properties": { "OBJECTID": 81, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.055248205666743, 30.311221028857588 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 82, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.053774135727352, 30.310853763172435 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 83, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.057967968748869, 30.322353756440627 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 84, "Name": "KV UPPER CAMP", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.066151558299111, 30.370903649073728 ] } }
+{ "type": "Feature", "properties": { "OBJECTID": 84, "Name": "KV UPPER CAMP", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.066151558299111, 30.370903649073728 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 89, "Name": "Change", "ID": null }, "geometry": { "type": "Point", "coordinates": [ 78.00567375322747, 30.381352772196642 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 456, "Name": "change2", "ID": null }, "geometry": { "type": "Point", "coordinates": [ 78.029372442296449, 30.408894491925462 ] } }
 ]
 }
